@@ -1,0 +1,1 @@
+In this analysis I would be addressing the Traffic Volume factor based on the available Open Data. In the future, I would like to address Speed factor seperately.

@@ -7,6 +7,6 @@ An efficient road network plays an essential role in determining the quality of 
 
 These questions would help in prioritizing the investments and planning decisions that are needed to improve the efficiency of the road networks.
 
-Through this analysis I intend to explore some of the factors that visibly affect the Road Networks and quantitative impact they have. 
+Through this analysis I intend to explore some of the factors that visibly affect the Road Networks and quantitative impact they have on them.
 
 _Oh, an empty article!_ You can get started by **double clicking** this text block and begin editing. You can also click the **Text** button below to add new block elements. Or you can **drag and drop an image** right onto this text!

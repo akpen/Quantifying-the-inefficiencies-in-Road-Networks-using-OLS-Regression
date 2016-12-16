@@ -10,4 +10,9 @@
 
 3) NY Traffic Volumes Data:
  * Annual Volumes of Traffic in different road sections of New York State for the year 2015
- * 
+
+4) MTA Bus Stop Locations:
+ * The locations of Bus stops on different road sections of NYC.
+
+5) NYC Zip-Codes:
+ * Shape file for different zipcodes of NYC
